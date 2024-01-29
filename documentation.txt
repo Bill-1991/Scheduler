@@ -1,0 +1,27 @@
+
+1. The user should be able to fill in their schedule every day from 12am
+   1.1 The user should be able to fill their timezone and the option to be notified or not.
+   
+
+2. The user should be able to update his schedule if their schedule changes.
+
+3. The user should be able to ask for the whole daily schedule of other users, so they can check they visually.
+   3.1 The user should be able to see people that already inserted their schedule in the database.Also they can see the schedule of each person individually.
+
+4. The user should be able to enter specific day they are free, and ask for names that are free on the same day.
+4.1 The user should be able to enter a specific hour of day and ask for names that are free on this hour.
+
+5. The user should be able to clear his whole table if he needs to.
+   Confirmation by the user is needed for this one.
+
+
+ When we get to 4.1
+6. What is seen by the user should take into account the time zone.
+
+7. The user should be able to ask help from the bot.
+
+
+Optional
+
+1. The users should be notified on their free time if someone else is free,
+   only if they choose to be notified.
