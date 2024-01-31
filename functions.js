@@ -37,5 +37,5 @@ function schedulerHelp(msg) {
 
 const storeInput = content => content.split(" ");
 
-module.exports = { storeInput };
+module.exports = { storeInput, schedulerHelp };
 
