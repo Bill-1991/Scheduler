@@ -1,5 +1,6 @@
 const database = require('./database.js');
 
+
 function schedulerHelp(msg) {
     let log = msg.reply(`### __**HELP MODE**__\n\n**a) This operation asks help from the bot to see what ops it can operate.**
     __**scheduler 1 help:**__
@@ -35,3 +36,8 @@ function schedulerHelp(msg) {
 }
 
 module.exports = { schedulerHelp }
+
+const storeInput = content => content.split(" ");
+
+module.exports = { storeInput };
+
