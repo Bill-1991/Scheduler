@@ -2,7 +2,6 @@ const { Client, IntentsBitField } = require('discord.js');
 require('dotenv').config()
 const database = require('./database.js');
 const functions = require('./functions.js');
-const input = functions.storeInput;
 const client = new Client({
 	intents: [
 		IntentsBitField.Flags.Guilds,
@@ -23,6 +22,6 @@ function readyBot() {
 function userMessage(msg) {
 	if (msg.channel.id === process.env.CHANNEL_KEY)
 	{
-		
+		const input = functions.storeInput(msg.content);		
 	}
 };
