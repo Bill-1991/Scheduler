@@ -28,9 +28,7 @@ function schedulerHelp(msg) {
     1: **scheduler** is calling out the bot.
     2: **5** is the **id** of the op.
     3: **name** is the name of the user.
-    4: **delete** deletes entry of the user.
-    __**Important**__: After this command the user will be prompted for confirmation.
-    e.g Are you sure? Press **y** for yes and **n** for no.`)
+    4: **delete** deletes entry of the user.`)
 
     return log;
 }
