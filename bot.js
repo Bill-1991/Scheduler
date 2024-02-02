@@ -1,7 +1,5 @@
 const { Client, IntentsBitField } = require('discord.js');
-require('dotenv').config()
-const database = require('./database.js');
-const functions = require('./functions.js');
+require('dotenv').config();
 const client = new Client({
 	intents: [
 		IntentsBitField.Flags.Guilds,
