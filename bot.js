@@ -11,15 +11,6 @@ const client = new Client({
 
 client.login(process.env.MY_KEY);
 client.on('ready', readyBot);
-client.on('messageCreate', userMessage);
-
 function readyBot() {
     console.log('Ready')
-};
-
-function userMessage(msg) {
-	if (msg.channel.id === process.env.CHANNEL_KEY)
-	{
-		const input = functions.storeInput(msg.content);		
-	}
 };
