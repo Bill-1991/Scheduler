@@ -18,6 +18,6 @@ E.g **user1 14-02-2024 (00:00):free (01:00):free (02:00):not_free ..... (23:00):
 
 8. The user should be able to request for a name specifically and see if that name is free on the requested day on one(or more requested hours) of that date.
 
-9. If the user provides their timezone difference then **(2-4)** should return back to the user shown on the user's timezone.
+9. If the user provides their timezone difference then **(4-8)** should return back to the user shown on the user's timezone.
 
 10. **(3, 5, 6, 7, 8)** should be able to notify users if the users choose to be notified.
