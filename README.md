@@ -21,9 +21,7 @@ In order to follow further instruction and run this project on your local machin
  - Version control system - Git
  - Before you download anything, check if you don't have it installed already by issuing these commands to your terminal:
 
-$ node -v
-**v17.9.0**
-$ git --version
+$ node -v\n**v17.9.0**\n$ git --version
 **git version 2.25.1**
 If you get command not found message, it's not installed.
 
@@ -35,7 +33,7 @@ For Windows users: I also personally recommend installing Windows Terminal where
 3. Clone this repository to your local machine git clone https://github.com/GITHUB-USERNAME-GOES-HERE/Scheduler.git
 4. Change to the project directory cd Scheduler
 5. Install the dependencies using npm program. npm install
-6. Run the project npm start
+6. Run the project nodemon bot.js
 
 ### Contributing
 We keep track of things to do, fix and enhance under the Issues section. You can also think of it as our project structure. If you're thinking about contributing to this codebase, please visit our contribution guide for more information.
