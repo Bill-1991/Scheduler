@@ -28,6 +28,7 @@ $ node -v
 $ git --version
 
 **git version 2.25.1**
+
 If you get command not found message, it's not installed.
 
 For Windows users: I also personally recommend installing Windows Terminal where you can run git-bash shell rather than Command Prompt, which will allow you typing Linux commands on Windows.
