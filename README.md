@@ -21,7 +21,12 @@ In order to follow further instruction and run this project on your local machin
  - Version control system - Git
  - Before you download anything, check if you don't have it installed already by issuing these commands to your terminal:
 
-$ node -v\n**v17.9.0**\n$ git --version
+$ node -v
+
+**v17.9.0**
+
+$ git --version
+
 **git version 2.25.1**
 If you get command not found message, it's not installed.
 
