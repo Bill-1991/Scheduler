@@ -20,4 +20,4 @@ E.g **user1 14-02-2024 (00:00):free (01:00):free (02:00):not_free ..... (23:00):
 
 9. If the user provides their timezone difference then **(4-8)** should return back to the user shown on the user's timezone.
 
-10. **(3, 5, 6, 7, 8)** should be able to notify users if the users choose to be notified.
+10. **(4, 5, 6, 7, 8)** should be able to notify users if the users choose to be notified.
