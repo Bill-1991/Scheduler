@@ -5,7 +5,7 @@ E.g **user1 14-02-2024 (00:00):free (01:00):free (02:00):not_free ..... (23:00):
 
 2. The user should be able to update entries of their schedule: **name, timezone, notify, dates, hours** can all be updated.
 
-3. The user should be able to delete entries of their schedule: **every entry can be deleted separately all their whole schedule at once**.
+3. The user should be able to delete entries of their schedule: **every entry can be deleted separately or their whole schedule at once**.
 **This one needs confirmation by the users before done**.
 
 2. The user should be able to see the whole table schedule, with everyones names, dates and hours.
@@ -14,7 +14,7 @@ E.g **user1 14-02-2024 (00:00):free (01:00):free (02:00):not_free ..... (23:00):
 
 4. The user should be able to see names that are free on a requested date on the requested hours of that date.
 
-5. The user should be able to request for a name specifically and see if that name is free on a rsquested date.
+5. The user should be able to request for a name specifically and see if that name is free on a requested date.
 
 6. The user should be able to request for a name specifically and see if that name is free on the requested day on one(or more requested hours) of that date.
 
