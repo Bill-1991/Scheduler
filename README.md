@@ -6,12 +6,12 @@ This app is a scheduler for a small group of people in discord. It is created mo
  - **JavaScript**
 
 ## Table of contents
- - **Installation**
- - **Basic Setup**
- - **Running the project**
- - **Contributing**
- - **Help**
- - **Why should you join us?**
+ - [a link](# **Installation**)
+     - [a link](# **Basic Setup**)
+     - [a link](# **Running the project**)
+ - [a link](# **Contributing**)
+ - [a link](# **Help**)
+ - [a link](# **Why should you join us?**)
 
 ## Installation
 ### Basic Setup
