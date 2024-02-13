@@ -23,11 +23,11 @@ In order to follow further instruction and run this project on your local machin
 
 $ node -v
 
-**v17.9.0**
+**v20.11.0**
 
 $ git --version
 
-**git version 2.25.1**
+**git version 2.43.1**
 
 If you get command not found message, it's not installed.
 
